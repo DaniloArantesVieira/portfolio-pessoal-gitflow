@@ -57,3 +57,11 @@ ul {
   color: #58a6ff;
   font-size: 0.9rem;
 }
+
+#contato a {
+  color: #58a6ff;
+}
+
+#contato a:hover {
+  text-decoration: none;
+}
