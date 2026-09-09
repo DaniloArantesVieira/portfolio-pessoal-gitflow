@@ -32,3 +32,36 @@ h2 {
 ul {
   line-height: 1.8;
 }
+
+.projetos {
+  display: grid;
+  gap: 20px;
+}
+
+.projeto {
+  background-color: #161b22;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.projeto h3 {
+  margin-top: 0;
+}
+
+.projeto p {
+  color: #c9d1d9;
+  line-height: 1.6;
+}
+
+.projeto span {
+  color: #58a6ff;
+  font-size: 0.9rem;
+}
+
+#contato a {
+  color: #58a6ff;
+}
+
+#contato a:hover {
+  text-decoration: none;
+}
